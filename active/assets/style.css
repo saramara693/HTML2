@@ -1,0 +1,175 @@
+/* ========================================================================
+ Template : Active v1.0
+ Authour  : https://www.TheDesignStart.com
+ LIcense  :  www.TheDesignStart.com/license 
+ Template URL: https://thedesignstart.com/templates/bootstrap/free-bootstrap-landing-page-template-active/
+ Version  : 1.0
+ ========================================================================= */
+/* General Styles */
+body {
+  font-size: 18px;
+  line-height: 30px;
+  font-family: "Nunito", sans-serif;
+}
+section {
+  padding-top: 120px;
+  padding-bottom: 100px;
+}
+.padding-head {
+  padding-bottom: 40px;
+}
+.features-icon {
+  display: block;
+  font-size: 55px;
+  padding-top: 120px;
+  padding-bottom: 65px;
+  color: #479f80;
+}
+.heading {
+  font-size: 40px;
+  color: #272625;
+}
+.contactec {
+  font-size: 20px;
+  color: #479f80;
+}
+.max-height-set {
+  padding-top: 20px;
+  max-height: 350 !important;
+}
+.navbar-nav a i {
+  padding: 2px;
+}
+/*Bootstrap Style override*/
+.navbar-dark .navbar-brand {
+  color: #fff;
+  font-size: 25px;
+  font-weight: 900;
+}
+.navbar-dark .navbar-nav .nav-link {
+  padding: 10px 15px 10px 15px;
+  font-size: 12px;
+  text-transform: uppercase;
+  color: #479f80;
+}
+.navbar-dark .navbar-nav .nav-link:focus,
+.navbar-dark .navbar-nav .nav-link:hover {
+  color: #479f80;
+}
+.navbar a.logo,
+.navbar a.logo:hover {
+  font-family: "Tourney", cursive;
+  text-decoration: none;
+  font-size: 45px;
+  color: white;
+}
+.card {
+  border: 1px dashed #479f80;
+  margin: 15px 1px;
+}
+.card-title {
+  color: #479f80;
+}
+#menuMain {
+  padding-right: 120px;
+}
+/* Menu Styles */
+.bg-main {
+  background-color: #272625 !important;
+}
+/* Header Styles */
+header {
+  background: url(images/header.jpg) no-repeat center center;
+  padding: 0;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+header .overlay {
+  padding-top: 200px;
+  background-color: rgba(36, 36, 36, 0.95);
+  padding-bottom: 200px;
+  color: #fff;
+}
+header .overlay p {
+  padding-top: 30px;
+}
+.btn-cust {
+  padding: 8px 15px 8px 15px;
+  background-color: #479f80;
+  font-size: 14px;
+  border: 0px;
+  color: #fff;
+  text-decoration: none;
+  cursor: pointer;
+}
+.heading-set {
+  font-weight: 900;
+  color: #479f80;
+}
+.form-wrapper-pro {
+  background-color: rgba(0, 0, 0, 0.38);
+  padding: 40px 40px 40px 40px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+}
+/* Stats */
+.stats-section {
+  background-color: #673ab7;
+  color: #fff;
+}
+/* features */
+#features {
+  background-color: #f2f2f2;
+}
+/* Hobbies */
+#Hobbies {
+  background-color: rgb(196, 250, 240);
+}
+/* CTA */
+.head-cta {
+  font-size: 35px;
+  line-height: 55px;
+}
+.cta-way {
+  background-color: #292c30;
+  color: #fff;
+}
+/* Pricing Styles */
+#pricing {
+  background-color: #a3dbff;
+}
+.padding-set {
+  padding-top: 120px;
+  padding-bottom: 40px;
+}
+.pricing-wrapper .pricing-table {
+  border: 1px dashed #479f80;
+  padding: 20px;
+  margin-top: 30px;
+  background-color: #fff;
+}
+.pricing-wrapper .popular {
+  color: #479f80;
+}
+.pricing-wrapper hr {
+  border-top: 1px solid #d0d0d0 !important;
+}
+.pricing-wrapper .pricing-table .price-wrap {
+  padding: 40px 30px 40px 30px;
+}
+.pricing-wrapper .type {
+  font-weight: 900;
+  font-size: 20px;
+}
+.pricing-wrapper .pricing-table .price {
+  display: block;
+  font-weight: 900;
+  font-size: 30px;
+}
+/* Footer Styles */
+footer {
+  background-color: #000;
+  color: #fff;
+  padding: 10px;
+}
