@@ -75,7 +75,7 @@ section {
 }
 /* Menu Styles */
 .bg-main {
-  background-color: #272625 !important;
+  background-color: rgba(0, 128, 0, 0.3) !important;
 }
 /* Header Styles */
 header {
