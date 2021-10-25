@@ -75,7 +75,7 @@ section {
 }
 /* Menu Styles */
 .bg-main {
-  background-color: rgba(0, 128, 0, 0.3) /* lightblue background with 30% opacity */;
+  background-color: lightblue
 }
 /* Header Styles */
 header {
