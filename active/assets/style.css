@@ -79,7 +79,7 @@ section {
 }
 /* Header Styles */
 header {
-  background: url(images/header.jpg) no-repeat center center;
+  background: lightblue;
   padding: 0;
   -webkit-background-size: cover;
   background-size: cover;
